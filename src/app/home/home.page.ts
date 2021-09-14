@@ -12,7 +12,7 @@ export class HomePage {
   private lastUrl;
   constructor(private iab: InAppBrowser, private platform: Platform) {
     platform.ready().then(() => {
-      this.open('https://my.equifax.com/membercenter');
+        this.open('https://my.equifax.com/membercenter');
     });
   }
 
