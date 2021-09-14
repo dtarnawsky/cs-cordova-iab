@@ -1,0 +1,16 @@
+{
+  "name": "cs-iv5-cordova",
+  "integrations": {
+    "cordova": {},
+    "enterprise": {
+      "keyId": 3442,
+      "productKey": "key_6b0f9ab15c74443193d20f38bf319c0d",
+      "appId": "96f50ac6",
+      "orgId": "3056f0e4-da1d-45ac-abcf-a487332e404f",
+      "registries": [
+        "@ionic-enterprise;https://registry.ionicframework.com/"
+      ]
+    }
+  },
+  "type": "angular"
+}
